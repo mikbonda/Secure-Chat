@@ -1,0 +1,2 @@
+g++ server.cpp server-ws.cpp common.cpp common-ws.cpp precompile.o -o server -lcrypto
+

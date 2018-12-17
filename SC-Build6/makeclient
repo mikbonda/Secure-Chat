@@ -1,0 +1,3 @@
+g++ client.cpp client-ws.cpp common.cpp common-ws.cpp precompile.o -o client -lcrypto
+
+
